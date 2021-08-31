@@ -1,0 +1,1 @@
+(()=>{"use strict";var o;console.log("index.js"),console.log(5),console.log("aaaaaaaa"),console.log("as rekiu".toUpperCase()+"!!!!"),console.log((o=25)*o)})();
